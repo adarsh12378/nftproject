@@ -1,0 +1,69 @@
+
+.user-list-container {
+  padding: 20px;
+}
+
+.h11 {
+  text-align: center;
+}
+
+.table-container {
+  margin: 20px auto;
+  max-width: 800px;
+}
+
+.user-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.table-header {
+  background-color: #f2f2f2;
+  padding: 10px;
+  text-align: left;
+}
+
+.user-table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.user-link {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.user-link:hover {
+  text-decoration: underline;
+}
+
+/* page.module.css */
+.bg {
+  background-image: url('https://lh3.googleusercontent.com/i5dYZRkVCUK97bfprQ3WXyrT9BnLSZtVKGJlKQ919uaUB0sxbngVCioaiyu9r6snqfi2aaTyIvv6DHm4m2R3y7hMajbsv14pSZK8mhs=s2500');
+  background-size: cover;
+  background-position: center;
+  height: 300px; /* Adjust the height as needed */
+}
+
+.container {
+  max-width: 800px;
+ 
+}
+
+.name {
+  font-size: 40px;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.owner {
+  font-size: 18px;
+  color: #121111;
+}
+
+.description {
+  font-size: 15px;
+  color:black;
+  margin-top: 20px;
+  
+}
+
